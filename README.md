@@ -53,6 +53,9 @@ The primary objectives of this project are:
 3. Load the dataset into a MySQL database.
 4. Run the Python scripts to generate insights and visualizations.
 
+### Dashboard Preview 🎨
+![Dashboard Preview](https://github.com/JanviDhonde/SQL_AyodhyaRamMandir/blob/main/Screenshot%20(150).png)
+
 ### Graph Visualizations 🎨
 
 - **Top Product Categories by Sales**:
